@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Andrews Mantovani 👋
 
-<!--
-**andrewsmantovani/andrewsmantovani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+🎓 Analysis and Systems Development student from Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about designing software, improving processes and building systems that solve real-world problems.
+
+## Interests
+
+- Software Engineering
+- Systems Design
+- Process Improvement
+- Game Development
+
+## Currently learning
+
+- Java
+- C#
+- Python
+- Software Engineering
+
+## Current Project
+
+🎮 **Project TK**
+
+An original game development project in its early design and engineering stages, developed by **Tenkai Studios**.
+
+## Goal
+
+Create software that is organized, scalable and meaningful, while continuously improving my skills as a software developer.
